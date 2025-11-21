@@ -1,0 +1,62 @@
+[
+  {
+    "model": "blog.service",
+    "pk": 1,
+    "fields": {
+      "title": "UX/UI дизайн",
+      "description": "Создание современных и удобных интерфейсов для пользователей.",
+      "details": "Прототипы, дизайн-макеты, подбор иконок и иллюстраций.",
+      "icon": "layout-dashboard"
+    }
+  },
+  {
+    "model": "blog.service",
+    "pk": 2,
+    "fields": {
+      "title": "Веб-сайты",
+      "description": "Разработка современных и быстрых сайтов для вашего бизнеса.",
+      "details": "Лендинги, корпоративные сайты, SEO-оптимизация.",
+      "icon": "globe"
+    }
+  },
+  {
+    "model": "blog.service",
+    "pk": 3,
+    "fields": {
+      "title": "Мобильные приложения",
+      "description": "Разработка мобильных приложений под Android и iOS.",
+      "details": "Публикация в Google Play и App Store, UX оптимизация.",
+      "icon": "smartphone"
+    }
+  },
+  {
+    "model": "blog.service",
+    "pk": 4,
+    "fields": {
+      "title": "SEO продвижение",
+      "description": "Повышение рейтинга сайта и увеличение посещаемости.",
+      "details": "Аналитика, оптимизация и настройка под поисковые системы.",
+      "icon": "trending-up"
+    }
+  },
+  {
+    "model": "blog.service",
+    "pk": 5,
+    "fields": {
+      "title": "CRM и LMS системы",
+      "description": "Создание внутренних систем для автоматизации бизнеса.",
+      "details": "CRM для клиентов, платформы обучения, аналитика.",
+      "icon": "bar-chart"
+    }
+  },
+  {
+    "model": "blog.service",
+    "pk": 6,
+    "fields": {
+      "title": "Blockchain разработка",
+      "description": "Реализация решений на базе блокчейн технологий.",
+      "details": "Смарт-контракты, криптоплатежи, децентрализованные приложения.",
+      "icon": "shield"
+    }
+  }
+]

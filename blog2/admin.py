@@ -1,0 +1,8 @@
+from django.contrib import admin
+from .models import Contact
+
+@admin.register(Contact)
+class ContactAdmin(admin.ModelAdmin):
+    list_display = ('email', 'phone', 'created_at')
+    search_fields = ('email', 'phone')
+    ordering = ('-created_at',)
